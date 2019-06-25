@@ -390,6 +390,9 @@ h1.large{
 	overflow: hidden;
 	z-index: 1;
 }
+a:hover{
+	cursor: pointer;
+}
 
 
 /*#############Mobile settings #################*/
